@@ -1,3 +1,3 @@
 <p align=center>
-  [meddou.com](https://meddou.com).
+  [meddou.com](https://meddou.com)
 </p>
